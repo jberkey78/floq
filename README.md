@@ -1,6 +1,6 @@
 ## ABOUT FLOQ
 
-floq is a location and time based social crowd-sharing photo app. floq allows users to create and join public albums we call cliq's, where users can add, browse, download, and share photos from all uses in that cliq. Cliq's can be discovered and joined at the location they are created and only last pubicly for 24 hours, after that only those who joined will have access to the photos. Discover floq today and experince sharing the way it was meant to be.
+floq is a location and time based social crowd-sharing photo app. floq allows users to create and join public albums we call cliq's, where users can add, browse, download, and share photos from all uses in that cliq. Cliq's can be discovered and joined at the location they were created and only last pubicly for 24 hours, after that only those who joined will have access to the photos. Discover floq today and experince sharing the way it was meant to be.
 
 ## PRIVACY POLICY
 
